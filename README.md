@@ -1,2 +1,2 @@
-# Israel-s-Deep-Analytical-Framework-for-Video-Processing-IDAF-VP-
+# Israels-Deep-Analytical-Framework-for-Video-Processing-IDAF-VP
 Israel's Deep Analytical Framework for Video Processing (IDAF-VP)" is a robust framework designed for advanced video analysis through deep learning models. Engineered to meet the stringent technical demands of video processing, IDAF-VP integrates sophisticated computer vision and artificial intelligence techniques to provide detailed analysis and automatic interpretation of video content.
